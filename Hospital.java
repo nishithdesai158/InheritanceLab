@@ -1,8 +1,4 @@
-//********************************************************************
-//  Hospital.java       Authors: Lewis/Loftus
-//
-//  Solution to Programming Project 9.2 
-//********************************************************************
+
 
 public class Hospital
 {
